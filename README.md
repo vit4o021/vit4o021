@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/victor-andrews-queiroz-de-oliveira-9040871a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-![Snake animation](https://github.com/rafaballerini/vit4o021/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vit4o021/vit4o021/blob/output/github-contribution-grid-snake.svg)
