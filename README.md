@@ -1,6 +1,6 @@
 ### Olá, Eu sou Victor Andrews 👋
 
-- 💻 Atualmente estudo Python e seus frameworks para Back-End. Mas também busco entender a base do Front-End, pois é essencial.
+- 💻 Atualmente estudo Python e seus frameworks para Backend. Mas também busco entender a base do Frontend, pois é essencial.
 - 👨‍🎓 Cursando Engenharia de Computação
 
 <div>
