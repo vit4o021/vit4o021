@@ -1,7 +1,6 @@
 ### Olá, Eu sou Victor Andrews 👋
 
-- 💻 
-- 👨‍🎓 Cursando Engenharia de Computação
+- 💻 Este é meu repositório onde irei expandir e compartilhar meus conhecimentos sobre Ciência de dados por meio de projetos.
 
 <div>
   <a href="https://github.com/vit4o021">
