@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Pandas e SQL**
 
-- 📫 Pode entrar em contato comigo através do e-mail: **oliveiravitao68@gmail.com**
+- 📫 E-mail: **oliveiravitao68@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
