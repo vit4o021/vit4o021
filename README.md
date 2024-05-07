@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Victor Andrews</h1>
 
-- 💻 Compartilho aqui todos os meus trabalhos envolvendo Ciência de dados. Meu objetivo é demonstrar minha capacidade de lidar com problemas e soluções de negócio baseadas em dados
+- 💻 Compartilho aqui todos os meus trabalhos envolvendo Análise de dados. Meu objetivo é demonstrar minha capacidade de lidar com problemas e soluções de negócio baseadas em dados
 
 - 🌱 Atualmente estou aprendendo **Data visualization**
 
